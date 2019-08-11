@@ -1,0 +1,24 @@
+{
+  "name": "wxapi",
+  "version": "1.0.0",
+  "description": "Wx API to proxy Simplesky requests and secure the DarkSky API key.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "keywords": [
+    "weather",
+    "simplesky",
+    "dark-sky"
+  ],
+  "author": "Richard A Milewski (Netfool)",
+  "license": "MPL-2.0",
+  "dependencies": {
+    "dotenv-defaults": "^1.0.2",
+    "express": "^4.17.1",
+    "simplesky": "^1.1.1"
+  },
+  "devDependencies": {}
+}
