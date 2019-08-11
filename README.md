@@ -10,6 +10,6 @@ This program expects these environment variables:
     LANGUAGE        Language for Dark Sky API calls
     PORT            Port for Express
 
-WxProxy was designed to be used as a nodeapp in an nginx server that also serves the static html, css, javascript and image files that make up the weather forcast pages for a Corsica digital sign server.
+WxProxy was designed to be used as a nodeapp in an nginx server that also serves the static html, css, javascript and image files that make up the weather forecast pages for a Corsica digital sign server.
 
-See CorsicaWX for the weather forcast page code, and Corsica-CLI for the Corsica Server itself.
+See the GitHub repositories for [CorsicaWX](https://github.com/RAMilewski/WxProxy) for the weather forcast page code, and [Corsica-CLI](https://github.com/mozilla/corsica-cli) to install the Corsica Server itself.
