@@ -2,11 +2,11 @@
   "name": "wxapi",
   "version": "1.0.0",
   "description": "Wx API to proxy Simplesky requests and secure the DarkSky API key.",
-  "main": "index.js",
+  "main": "wxproxy.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index",
-    "dev": "nodemon index"
+    "start": "node wxproxy",
+    "dev": "nodemon wxproxy"
   },
   "keywords": [
     "weather",
