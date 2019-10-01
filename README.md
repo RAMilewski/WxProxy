@@ -12,4 +12,4 @@ This program looks for a .env file, and expects these environment variables:
 
 WxProxy was designed to be used as a nodeapp in an nginx server that also serves the static html, css, javascript and image files that make up the weather forecast pages for a Corsica digital sign server.
 
-See the GitHub repositories for [CorsicaWX](https://github.com/RAMilewski/WxProxy) for the weather forcast page code, and [Corsica-CLI](https://github.com/mozilla/corsica-cli) to install the Corsica Server itself.
+See the GitHub repositories for [CorsicaWX](https://github.com/RAMilewski/CorsicaWx) for the weather forcast page code, and [Corsica-CLI](https://github.com/mozilla/corsica-cli) to install the Corsica Server itself.
